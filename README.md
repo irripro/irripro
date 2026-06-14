@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python develoment for Smart Irrigation.
 - 🌱 I’m currently learning PCSE.
 - 💞️ I’m looking to collaborate on Smart Irrigation by Crop Model and AI.
-- 📫 How to reach me, visit www.irripro.net and  send email to irripro@qq.com . 
+- 📫 How to reach me, visit www.irripro.com.cn and  send email to irripro@qq.com . 
 
 Graduated from the Department of Water Conservancy at Beijing Agricultural Mechanization College in July 1984, currently specializing in irrigation and drainage engineering at China Agricultural University. A seasoned smart irrigation expert with over 40 years of experience in the industry,  I made the well-known "Master of Irrigation" website. I has served as a senior engineer at Guangxi Agricultural Reclamation Design Institute and as general manager of the Irrigation Division at Luyou Group. I was also the former COO of Shanghai Shengrui Software Technology Co., Ltd. and technical director of Huaweijieshui Irrigation Group Co. Ltd. I previously worked as a data analyst for listed company Jinglan Technology.
 
